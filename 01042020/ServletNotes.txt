@@ -1,0 +1,12 @@
+Folder structure -
+webapps- 
+	appo1-
+		WEB-INF -
+			classes
+
+
+mandatory packages 
+import javax.servlet.*;
+import java.io.*;
+
+servlet class should be public
